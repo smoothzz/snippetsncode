@@ -117,5 +117,11 @@ server {
     }
 }
 ```
+##### Docker registry commando to show images
+```
+http://ubntsrv:5000/v2/_catalog
+```
+
+
 
 
